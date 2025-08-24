@@ -9,14 +9,6 @@ The platform features a streamlined two-function core architecture:
 - **Limit Order Placement**: Create professional buy/sell orders with precise price control
 - **Trade Execution**: Advanced matching engine for executing trades with price improvement and fee calculation
 
-Key features include:
-- ✅ **Professional Limit Orders** with comprehensive validation
-- ✅ **Advanced Trade Matching** with price improvement logic  
-- ✅ **Real-time Order Book** management and tracking
-- ✅ **Fee Calculation** and revenue distribution
-- ✅ **Trade History** and analytics for transparency
-- ✅ **Escrow System** for secure fund management during trading
-- ✅ **Multi-token Support** for diverse trading pairs
 
 ## Project Vision
 Our vision is to create the most advanced and user-friendly decentralized exchange on Bitcoin Layer 2, providing institutional-grade trading tools while maintaining the security and decentralization principles of the Stacks blockchain.
