@@ -9,7 +9,7 @@ plan:
     - id: 0
       transactions:
         - contract-publish:
-            contract-name: contract1
+            contract-name: orderflow-dex
             expected-sender: ST1Q1TGXY98079CZABXAKZ5MWQGJCVTC1HVV51PQJ
             cost: 1979924
             path: "contracts\\orderflow-dex.clar"
