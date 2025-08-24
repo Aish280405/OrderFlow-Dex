@@ -57,13 +57,6 @@ clarinet devnet start
 - [Integration Tutorial](docs/integration.md)
 - [Security Best Practices](docs/security.md)
 
-## Community & Support
-- **Website**: https://orderflow-dex.com
-- **Documentation**: https://docs.orderflow-dex.com
-- **Discord**: https://discord.gg/orderflow-dex
-- **Twitter**: https://twitter.com/orderflow_dex
-- **GitHub**: https://github.com/orderflow-dex
-
 
 ## Disclaimer
 This is experimental DeFi software. Use at your own risk. Always audit smart contracts before mainnet deployment and never invest more than you can afford to lose.
